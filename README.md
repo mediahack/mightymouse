@@ -12,6 +12,9 @@ MightyMouse (MM) is a fast and modular PHP MVC framework.
 * PDO if using the RDBMS Database facilities
 * NoSQL works just fine too. Tested with Mongo
 
+## Docs
+Check out the [MM wiki here on Github](https://github.com/mediahack/mightymouse/wiki).
+
 ## YAF
 Why another framework? It's how we roll; roll our own :D As developers its smart to reuse existing foundations, but is also our place to expand and create our own paths too. Nothing is new, its how we reimagine and recombine. This was an built from a desire for simplicity, speed and understanding.
 
